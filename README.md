@@ -1,3 +1,3 @@
-# Juanito-Prototype-2
+# Juanito-Protoype
 
-Prototype for Isometric Puzzle RPG for CMPM 170
+Prototype for Juanito the Nahualito: A CMPM 179 Project
